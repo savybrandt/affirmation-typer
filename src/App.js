@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import keyboard from './keyboard-finger-map.png';
 import { Affirmation, Typer } from './components';
 import { getAffirmation } from './components/affirmation/helpers';
 
@@ -19,6 +19,7 @@ const App = () => {
             setAffirmation(getAffirmation())
           }}
         />
+        <img src={keyboard} alt="" />
       </header>
     </div>
   );

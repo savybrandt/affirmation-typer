@@ -5,7 +5,7 @@ const Typer = ({ value, onChange, onEnter }) => {
     if (e.key === 'Enter') onEnter()
   }
   return (
-    <input value={value} onChange={onChange} onKeyDown={handleKeyDown}/>
+    <input style={{ width: '450px'}} value={value} onChange={onChange} onKeyDown={handleKeyDown}/>
   )
 }
 

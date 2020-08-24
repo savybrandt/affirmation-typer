@@ -45,14 +45,6 @@
 
   `I give myself permission to do what is right for me.`,
 
-  `I am confident in my ability to [fill in the blank].`,
-
-  `I use my time and talents to help others [fill in the blank].`,
-
-  `What I love about myself is my ability to [fill in the blank].`,
-
-  `I feel proud of myself when I [fill in the blank].`,
-
   `I give myself space to grow and learn.`,
 
   `I allow myself to be who I am without judgment.`,
@@ -64,10 +56,6 @@
   `I give myself the care and attention that I deserve.`,
 
   `My drive and ambition allow me to achieve my goals.`,
-
-  `I share my talents with the world by [fill in the blank].`,
-
-  `I am good at helping others to [fill in the blank].`,
 
   `I am always headed in the right direction.`,
 
@@ -82,8 +70,6 @@
   `I trust myself to make the right decision.`,
 
   `I am becoming closer to my true self every day.`,
-
-  `I am grateful to have people in my life who [fill in the blank].`,
 
   `I am learning valuable lessons from myself every day.`,
 
@@ -257,8 +243,6 @@
   `I have abundant energy.`,
 
   `Let go of “what if”`,
-
-  `I will not live in reaction to my child.`,
 
   `Balance in life is what I strive for.`,
 

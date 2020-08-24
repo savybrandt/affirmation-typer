@@ -11,11 +11,11 @@ const Affirmation = ({ affirmation, typedString }) => {
 
   useEffect(()=> {
     if (isSubstring(affirmation, typedString)) {
-      setTextColor('green')
+      setTextColor('darkseagreen')
       setTypedSection(typedString)
       setRemainingSection(getRemainingSection(affirmation, typedString))
     } else {
-      setTextColor('red')
+      setTextColor('orangered')
     }
   }, [ typedString ])
 
@@ -26,7 +26,7 @@ const Affirmation = ({ affirmation, typedString }) => {
 
   return (
     <h3>
-      <span style={{color: textColor}}>{typedSection}</span> {remainingSection}
+      <span style={{color: textColor}}>{typedSection}</span>{remainingSection}
     </h3>
   );
 }
